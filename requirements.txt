@@ -1,0 +1,7 @@
+jupyter
+jupyterlab
+bash_kernel
+RISE
+pandas
+tabulate
+itables
